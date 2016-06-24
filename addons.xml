@@ -38,4 +38,21 @@
 		<description>Download and install addons for Kodi.</description>
 		<platform>all</platform>
 	</extension>
+</addon><addon id="script.module.youtube.dl" name="youtube-dl Control" provider-name="Rick Phillips (ruuk)" version="16.521.0">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.addon.signals" version="0.0.1" />
+    </requires>
+    <extension library="control.py" point="xbmc.python.script">
+        <provides>executable</provides>
+    </extension>
+    <extension library="lib" point="xbmc.python.module" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Module providing access to youtube-dl video stream extraction</summary>
+        <description lang="en">Module providing access to youtube-dl video stream extraction for hundreds of sites. Version is based on youtube-dl date version: YY.MDD.V where V is the addon specific sub-version. Also provides downloading with the option for background downloading with a queue and queue manager.</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>http://forum.xbmc.org/showthread.php?tid=200877</forum>
+        <source>http://github.com/ruuk/script.module.youtube.dl</source>
+    </extension>
 </addon></addons>

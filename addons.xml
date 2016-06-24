@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.common.plugin.cache" version="0.9.1" />
+    <import addon="script.module.youtube.dl" version="16.521.0" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Filme online de la trilulilu.ro</summary>
+    <description>Urmareste filme, desene animate dublate.</description>
+    <platform>all</platform>
+  </extension>
+</addon><addon id="plugin.video.220ro" name="220.ro" provider-name="kingul" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.common.plugin.cache" version="0.9.1" />
+    <import addon="script.module.youtube.dl" version="16.521.0" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Videoclipuri de pe 220.ro</summary>
+    <description>Urmareste filmulete funny, farse etc de pe 220.ro</description>
+    <platform>all</platform>
+  </extension>
+</addon><addon id="repository.kingul.repo" name="Kingul's Addons" provider-name="kingul" version="1.0.0">
+	<extension name="Kingul's Addons" point="xbmc.addon.repository">
+		<info compressed="false">https://raw.githubusercontent.com/viorel-m/kodi-repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/viorel-m/kodi-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/viorel-m/kodi-repo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Addons from https://github.com/viorel-m/kodi-repo</summary>
+		<description>Download and install addons for Kodi.</description>
+		<platform>all</platform>
+	</extension>
+</addon></addons>

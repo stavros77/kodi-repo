@@ -13,7 +13,7 @@
     <description>Urmareste filme, desene animate dublate.</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.220ro" name="220.ro" provider-name="kingul" version="1.0.3">
+</addon><addon id="plugin.video.220ro" name="220.ro" provider-name="kingul" version="1.0.4">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />

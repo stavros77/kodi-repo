@@ -1,0 +1,7 @@
+[B]Version 1.0[/B]
+
+prima versiune
+
+[B]Version 1.0.1[/B]
+
+tratează link-urile ca stream live, fara pauza si seek

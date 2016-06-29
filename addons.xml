@@ -55,7 +55,7 @@
         <forum>http://forum.xbmc.org/showthread.php?tid=200877</forum>
         <source>http://github.com/ruuk/script.module.youtube.dl</source>
     </extension>
-</addon><addon id="plugin.video.protvro" name="Protv.ro" provider-name="kingul" version="1.0.0">
+</addon><addon id="plugin.video.protvro" name="Protv.ro" provider-name="kingul" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />

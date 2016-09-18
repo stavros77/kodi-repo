@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.0">
+<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />
@@ -13,7 +13,7 @@
     <description>Urmareste filme, desene animate dublate.</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.220ro" name="220.ro" provider-name="kingul" version="1.0.6">
+</addon><addon id="plugin.video.220ro" name="220.ro" provider-name="kingul" version="1.0.7">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />
@@ -55,7 +55,7 @@
         <forum>http://forum.xbmc.org/showthread.php?tid=200877</forum>
         <source>http://github.com/ruuk/script.module.youtube.dl</source>
     </extension>
-</addon><addon id="plugin.video.protvro" name="Protv.ro" provider-name="kingul" version="1.0.1">
+</addon><addon id="plugin.video.protvro" name="Protv.ro" provider-name="kingul" version="1.0.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />
@@ -68,7 +68,7 @@
     <description>Urmareste emisiunile si serialele difuzate pe ProTV</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.tvrplus" name="TvrPlus" provider-name="kingul" version="1.0.0">
+</addon><addon id="plugin.video.tvrplus" name="TvrPlus" provider-name="kingul" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />

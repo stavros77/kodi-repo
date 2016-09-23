@@ -142,4 +142,20 @@
     <email />
     <source>https://github.com/viorel-m/kodi-repo</source>    
   </extension>
+</addon><addon id="service.subtitles.subtitrarinoiro" name="Subtitrari-noi.ro" provider-name="kingul" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="service.py" point="xbmc.subtitle.module" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Subtitrari-noi.ro</summary>
+    <description lang="en">Cauta si descarca subtitrari de pe subtitrari-noi.ro</description>
+    <disclaimer lang="en" />
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://forum.xbmc.org/showthread.php?tid=183114</forum>
+    <website />
+    <email />
+    <source>https://github.com/viorel-m/kodi-repo</source>    
+  </extension>
 </addon></addons>

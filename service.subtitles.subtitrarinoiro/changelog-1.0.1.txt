@@ -1,0 +1,7 @@
+1.0.1
+
+Fix selectie subtitrare - nu corespundea cu cea aleasa
+
+1.0.0
+
+Primul release

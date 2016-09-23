@@ -110,7 +110,7 @@
     <email />
     <source>https://github.com/viorel-m/kodi-repo</source>    
   </extension>
-</addon><addon id="service.subtitles.subsro" name="Subs.ro" provider-name="kingul" version="1.0.2">
+</addon><addon id="service.subtitles.subsro" name="Subs.ro" provider-name="kingul" version="1.0.3">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>
@@ -126,7 +126,7 @@
     <email />
     <source>https://github.com/viorel-m/kodi-repo</source>    
   </extension>
-</addon><addon id="service.subtitles.titrariro" name="Titrari.ro" provider-name="kingul" version="1.0.0">
+</addon><addon id="service.subtitles.titrariro" name="Titrari.ro" provider-name="kingul" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>
@@ -142,7 +142,7 @@
     <email />
     <source>https://github.com/viorel-m/kodi-repo</source>    
   </extension>
-</addon><addon id="service.subtitles.subtitrarinoiro" name="Subtitrari-noi.ro" provider-name="kingul" version="1.0.0">
+</addon><addon id="service.subtitles.subtitrarinoiro" name="Subtitrari-noi.ro" provider-name="kingul" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>

@@ -1,0 +1,11 @@
+1.0.2
+
+Fix selectie subtitrare - nu corespundea cu cea aleasa
+
+1.0.1
+
+Adaugat nume traducator in numele subtitrarii si in pagina de selectie
+
+1.0.0
+
+Primul release

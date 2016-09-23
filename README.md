@@ -15,6 +15,7 @@ Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro
 ### subs.ro/subtitrari
+### titrari.ro
 
 Descarcati arhiva https://github.com/viorel-m/kodi-repo/blob/master/repository.kingul.repo/repository.kingul.repo-1.0.0.zip?raw=true si "install from zip file" din system->add-ons
 

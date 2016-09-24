@@ -1,3 +1,6 @@
+1.0.4
+eliminat random useragent: probleme cu set-up boxes si android
+
 1.0.3
 Adaugat random user-agent
 

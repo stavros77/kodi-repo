@@ -1,0 +1,20 @@
+1.0.5
+fix cautare manuala
+
+1.0.4
+eliminat random useragent: probleme cu set-up boxes si android
+
+1.0.3
+Adaugat random user-agent
+
+1.0.2
+
+Imbunatatit cautare dupa numele fisierului daca nu este in baza de date
+
+1.0.1
+
+Adaugat Username si Parola pentru cont regielive. Fara ele nu veti mai putea descarca mai mult de 10 subtitrari pe zi, decat daca va veti schimba ip-ul
+
+1.0.0
+
+Primul release

@@ -1,0 +1,17 @@
+[B]1.0.4[/B]
+Adaugat marcare vazut/nevazut 1.oct.2016
+
+[B]1.0.3[/B]
+fix play 1.oct.2016
+
+[B]Version 1.0.2[/B]
+fix play : site changes
+code cleanup
+
+[B]Version 1.0[/B]
+
+prima versiune
+
+[B]Version 1.0.1[/B]
+
+tratează link-urile ca stream live, fara pauza si seek

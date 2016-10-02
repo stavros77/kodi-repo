@@ -1,0 +1,9 @@
+[B]1.0.2[/B]
+adaugat tv live de pe tvrplus.ro
+
+[B]Version 1.0.1[/B]
+cleanup
+
+[B]Version 1.0[/B]
+
+prima versiune

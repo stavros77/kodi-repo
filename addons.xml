@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.1">
+<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />
-    <import addon="script.module.youtube.dl" version="16.521.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Filme online de la trilulilu.ro</summary>
-    <description>Urmareste filme, desene animate dublate.</description>
+    <description>Urmareste videoclipuri de pe trilulilu.ro</description>
     <platform>all</platform>
   </extension>
 </addon><addon id="plugin.video.220ro" name="220.ro" provider-name="kingul" version="1.0.7">

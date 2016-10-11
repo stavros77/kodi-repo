@@ -1,0 +1,6 @@
+[B]Versiunea 2.0.2[/B]
+Fix play, fix categorii
+
+[B]Version 1.0[/B]
+
+first version

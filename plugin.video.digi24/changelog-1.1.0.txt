@@ -1,0 +1,7 @@
+[B]Version 1.1.0[/B]
+12-10-2016
+Adaugat paginatie si buton Cautare
+
+[B]Version 1.0[/B]
+
+prima versiune

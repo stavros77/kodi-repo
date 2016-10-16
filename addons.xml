@@ -156,7 +156,7 @@
     <email />
     <source>https://github.com/viorel-m/kodi-repo</source>    
   </extension>
-</addon><addon id="torrenter.searcher.FileListRO" name="Torrenter Searcher: FileListRO" provider-name="Kingul" version="1.0.1">
+</addon><addon id="torrenter.searcher.FileListRO" name="Torrenter Searcher: FileListRO" provider-name="Kingul" version="1.0.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>

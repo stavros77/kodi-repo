@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kingul.repo" name="Kingul's Addons" version="1.0.0" provider-name="kingul">
+<addon id="repository.kingul.repo" name="Kingul's Addons" version="1.0.1" provider-name="kingul">
 	<extension point="xbmc.addon.repository" name="Kingul's Addons">
 		<info compressed="false">https://raw.githubusercontent.com/viorel-m/kodi-repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/viorel-m/kodi-repo/master/addons.xml.md5</checksum>

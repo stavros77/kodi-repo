@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<addon id='torrenter.searcher.FileListRO' version='1.0.3'
-     name='Torrenter Searcher: FileListRO' provider-name='Kingul'>
+<addon id='torrenter.searcher.DataScene' version='1.0.1'
+     name='Torrenter Searcher: DataScene' provider-name='Kingul'>
   <requires>
     <import addon='xbmc.python' version='2.1.0'/>
   </requires>
@@ -9,14 +9,14 @@
   </extension>
       <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <summary lang='en'>Torrenter v2 Searcher module for FileList.RO.
+        <summary lang='en'>Torrenter v2 Searcher module for DataScene.net.
         </summary>
-        <description lang='en'>Torrenter v2 Searcher module for FileList.RO.
+        <description lang='en'>Torrenter v2 Searcher module for DataScene.net.
         </description>
         <disclaimer lang='en'>GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
-        <summary lang='ru'>Серчер трекера FileList.RO для плагина Torrenter v2.
+        <summary lang='ru'>Серчер трекера DataScene для плагина Torrenter v2.
         </summary>
-        <description lang='ru'>Серчер трекера FileList.RO для плагина Torrenter v2.
+        <description lang='ru'>Серчер трекера DataScene для плагина Torrenter v2.
         </description>
         <disclaimer lang='ru'>GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
     </extension>

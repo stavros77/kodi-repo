@@ -92,7 +92,7 @@
     <description>Urmareste emisiunile aflate pe Digi24.ro</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="service.subtitles.regielive" name="Regielive" provider-name="kingul" version="1.0.5">
+</addon><addon id="service.subtitles.regielive" name="Regielive" provider-name="kingul" version="1.0.6">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>

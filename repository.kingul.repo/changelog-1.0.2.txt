@@ -1,0 +1,8 @@
+1.0.2
+Added dependencies repo
+
+1.0.1
+icon
+
+1.0.0
+-> initial version

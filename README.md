@@ -11,6 +11,10 @@ kodi add-ons pentru vizionare video, seriale, emisiuni, de pe :
 
 ### digi24.ro
 
+### hindilover.com
+
+### filmeonline2013.biz
+
 Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro
@@ -21,6 +25,7 @@ Descarcare subtitrari de pe :
 Plugin torrenter pentru:
 
 ### filelist.ro
+### datascene.net
 
-Descarcati arhiva https://github.com/viorel-m/kodi-repo/blob/master/repository.kingul.repo/repository.kingul.repo-1.0.1.zip?raw=true si "install from zip file" din system->add-ons
+Descarcati arhiva https://github.com/viorel-m/kodi-repo/blob/master/repository.kingul.repo/repository.kingul.repo-1.0.2.zip?raw=true si "install from zip file" din system->add-ons
 

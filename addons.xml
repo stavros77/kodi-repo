@@ -25,7 +25,7 @@
     <description>Urmareste filmulete funny, farse etc de pe 220.ro</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="repository.kingul.repo" name="Kingul's Addons" provider-name="kingul" version="1.0.2">
+</addon><addon id="repository.kingul.repo" name="Kingul's Addons" provider-name="kingul" version="1.0.3">
 	<extension name="Kingul's Addons" point="xbmc.addon.repository">
                 <dir>
 			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
@@ -37,6 +37,11 @@
                         <checksum>http://kodi.filmkodi.com/addons.xml.md5</checksum>
                         <datadir zip="true">http://kodi.filmkodi.com/</datadir>
                 </dir>
+                <dir>
+                    <info compressed="false">http://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml</info>
+                    <checksum>http://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml.md5</checksum>
+                    <datadir zip="true">http://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/repo/</datadir>
+                </dir>
 		<info compressed="false">https://raw.githubusercontent.com/viorel-m/kodi-repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/viorel-m/kodi-repo/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/viorel-m/kodi-repo/master/</datadir>
@@ -44,6 +49,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Addons from https://github.com/viorel-m/kodi-repo</summary>
 		<description>Download and install addons for Kodi.</description>
+                <disclaimer>Kingul</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon><addon id="script.module.youtube.dl" name="youtube-dl Control" provider-name="Rick Phillips (ruuk)" version="16.521.1">
@@ -234,6 +240,19 @@
   <extension point="xbmc.addon.metadata">
     <summary>Filme de pe filmeonline2013.biz</summary>
     <description>Urmareste filme subtitrate in romana de pe filmeonline2013.biz</description>
+    <platform>all</platform>
+  </extension>
+</addon><addon id="plugin.video.klatvro" name="Kla.tv" provider-name="kingul" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.common.plugin.cache" version="0.9.1" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Video de pe kla.tv</summary>
+    <description>Vizualizeaza videoclipuri de pe kla.tv</description>
     <platform>all</platform>
   </extension>
 </addon></addons>

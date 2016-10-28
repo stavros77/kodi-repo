@@ -1,0 +1,6 @@
+[B]Version 1.0.1[/B]
+Fix play ( nu din cautare)
+
+[B]Version 1.0.0[/B]
+
+prima versiune, nu functioneaza corect cautarea

@@ -242,7 +242,7 @@
     <description>Urmareste filme subtitrate in romana de pe filmeonline2013.biz</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.klatvro" name="Kla.tv" provider-name="kingul" version="1.0.0">
+</addon><addon id="plugin.video.klatvro" name="Kla.tv" provider-name="kingul" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="0.9.1" />

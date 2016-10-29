@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<addon id='torrenter.searcher.FileListRO' version='1.0.3'
+<addon id='torrenter.searcher.FileListRO' version='1.0.4'
      name='Torrenter Searcher: FileListRO' provider-name='Kingul'>
   <requires>
     <import addon='xbmc.python' version='2.1.0'/>

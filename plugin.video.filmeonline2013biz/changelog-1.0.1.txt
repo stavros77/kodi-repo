@@ -1,0 +1,6 @@
+1.0.1
+Fix icon size
+
+[B]Version 1.0.0[/B]
+
+prima versiune

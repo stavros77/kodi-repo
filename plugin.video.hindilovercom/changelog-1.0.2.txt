@@ -1,0 +1,9 @@
+1.0.2
+Fix icon size
+
+1.0.1
+push version
+
+[B]Version 1.0.0[/B]
+
+prima versiune

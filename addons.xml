@@ -238,4 +238,25 @@
     <description>Vizualizeaza videoclipuri de pe kla.tv</description>
     <platform>all</platform>
   </extension>
+</addon><addon id="torrenter.searcher.RarBG" name="Torrenter Searcher: RarBG" provider-name="Kingul" version="1.0.2">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="__init__.py" point="xbmc.python.script">
+    <provides>executable</provides>
+  </extension>
+      <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Torrenter v2 Searcher module for RarBG.
+        </summary>
+        <description lang="en">Torrenter v2 Searcher module for RarBG.
+        </description>
+        <disclaimer lang="en">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
+        <summary lang="ru">Серчер трекера RarBG для плагина Torrenter v2.
+        </summary>
+        <description lang="ru">Серчер трекера RarBG для плагина Torrenter v2.
+        </description>
+        <disclaimer lang="ru">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
+    </extension>
+  <extension point="xbmc.python.module" />
 </addon></addons>

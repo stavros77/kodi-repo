@@ -26,6 +26,7 @@ Plugin torrenter pentru:
 
 ### filelist.ro
 ### datascene.net
+### rarbg.to
 
 Descarcati arhiva https://raw.githubusercontent.com/viorel-m/kodi-repo/master/repository.kingul.repo/repository.kingul.repo-1.0.4.zip si "install from zip file" din system->add-ons
 

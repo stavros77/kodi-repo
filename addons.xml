@@ -259,4 +259,17 @@
         <disclaimer lang="ru">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
     </extension>
   <extension point="xbmc.python.module" />
+</addon><addon id="plugin.video.filmehdnet" name="FilmeHD.net" provider-name="kingul" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.mrknow.urlresolver" version="2016.10.21.1" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Filme de pe FilmeHD.net</summary>
+    <description>Urmareste filme subtitrate in romana de pe FilmeHD.net</description>
+    <platform>all</platform>
+  </extension>
 </addon></addons>

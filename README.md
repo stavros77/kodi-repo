@@ -15,6 +15,8 @@ kodi add-ons pentru vizionare video, seriale, emisiuni, de pe :
 
 ### filmeonline2013.biz
 
+### filmehd.net
+
 Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro
